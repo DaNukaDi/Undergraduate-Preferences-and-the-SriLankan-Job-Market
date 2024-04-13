@@ -39,7 +39,8 @@ According to the above figure, we can understand why most students are willing t
   </tr>
 </table>  
 
-
+<img src="Images/higherst_3.png" width=750 height=300>
+<img src="Images/higherst_4.png" width=1000 height=300>
 
 ## Conclusions
   1. More than half of the sample, which is 58% prefer entering the industry after graduation, while the rest 42% prefer continuing higher studies.
