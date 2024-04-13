@@ -18,20 +18,20 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
 
 ## Data Analysis
    ### Entering Sri Lankan Industry
-  <img src="Images/sl_industry 1.png" width=650 height=450>
-It seems that many people are joining the Sri Lankan job market.Is it really so?
+  <table>
+  <tr>
+    <td><img src="Images/sl_industry 1.png" width=750 height=450></td>
+    <td><img src="Images/sl_industry2.png" width=750 height=450></td>  
+  </tr>
+</table>  
 
-  <img src="Images/sl_industry2.png" width=650 height=450>
+It appears that many people are indeed joining the Sri Lankan job market. Is this the case? According to the first pie chart, we can observe that most undergraduates are willing to enter the industry in Sri Lanka after their graduation. However, their satisfaction with the Sri Lankan job market is very low. So, what are the actual reasons for their preference?
+<img src="Images/sl_reasons.png" width=750 height=450>
 
+According to the above figure, we can understand why most students are willing to join the Sri Lankan job market. A considerable number of students do not want to leave their parents and go to another country. Also, some students are facing financial instability. Therefore, we can understand that their preferences do not depend on the quality of the Sri Lankan industry.
 
-
-
-
-
-
-   ### Entering Sri Lankan Industry
-
-          
+   ### Continue Higher Studies
+   
 
 
 
