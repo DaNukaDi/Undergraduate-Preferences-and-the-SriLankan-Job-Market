@@ -34,8 +34,8 @@ According to the above figure, we can understand why most students are willing t
    ### Continue Higher Studies
   <table>
   <tr>
-    <td ><img src="Images/sl_industry_1.png" width=750 height=300></td>
-    <td><img src="Images/sl_industry2.png" width=750 height=300></td>  
+    <td ><img src="Images/higherst_1.png" width=750 height=300></td>
+    <td><img src="Images/higherst_2.png" width=750 height=300></td>  
   </tr>
 </table>  
 
