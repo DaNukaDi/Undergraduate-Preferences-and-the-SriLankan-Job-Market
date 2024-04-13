@@ -20,8 +20,8 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
    ### Entering Sri Lankan Industry
   <table>
   <tr>
-    <td><img src="Images/sl_industry 1.png" width=750 height=400></td>
-    <td><img src="Images/sl_industry2.png" width=750 height=400></td>  
+    <td><img src="Images/sl_industry 1.png" width=750 height=300></td>
+    <td><img src="Images/sl_industry2.png" width=750 height=300></td>  
   </tr>
 </table>  
 
