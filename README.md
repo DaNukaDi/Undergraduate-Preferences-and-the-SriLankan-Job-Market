@@ -18,12 +18,10 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
 
 ## Data Analysis
    ### Entering Sri Lankan Industry
+  <img src="Images/sl_industry 1.png" width=650 height=450>
+It seems that many people are joining the Sri Lankan job market.Is it really so?
 
-
-       jhhjkjhjh
-
-
-
+  <img src="Images/sl_industry2.png" width=650 height=450>
 
 
 
