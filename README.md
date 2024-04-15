@@ -14,7 +14,7 @@ We want to discover what motivates young Sri Lankans to move or search for oppor
 
 ## Main objective
 
-Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in UOC
+Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in University of Colombo
 
 ## Data Analysis
    ### Entering Sri Lankan Industry
@@ -29,17 +29,26 @@ It appears that many people are indeed joining the Sri Lankan job market. Is thi
 
 <img src="Images/sl_reasons.png" width=1000 height=300>
 
-According to the above figure, we can understand why most students are willing to join the Sri Lankan job market. A considerable number of students do not want to leave their parents and go to another country. Also, some students are facing financial instability. Therefore, we can understand that their preferences do not depend on the quality of the Sri Lankan industry.
+According to the above figure, we can understand why most students are willing to join the Sri Lankan job market. A considerable number of students do not want to leave their parents and go to another country. Also, some students are facing financial instability. *****Therefore, we can understand that their preferences do not depend on the quality of the Sri Lankan industry.****
 
    ### Continue Higher Studies
+
+
+  Now we consider those who want to pursue higher education after their graduation.
+   
   <table>
   <tr>
     <td ><img src="Images/higherst_1.png" width=750 height=300></td>
     <td><img src="Images/higherst_2.png" width=750 height=300></td>  
   </tr>
 </table>  
+The bar graph above illustrates that a significant proportion of students identify as research-oriented. Moreover, a considerable majority express a preference for pursuing further education abroad.
+
 
 <img src="Images/higherst_3.png" width=750 height=300>
+
+Above Bar graph shows **Decision after Doing Higher studies in Overseas**.Acording to that, Majority of the undergraduate are not decided yet what there doing after complete the higher studies in overseas.However, More people choose not to return to Sri Lanka after studying abroad than return.
+
 <img src="Images/higherst_4.png" width=1000 height=300>
 
 ## Conclusions
