@@ -68,7 +68,7 @@ Based on the heatmap provided, it's evident that the majority of students antici
     <img src="Images/cgu_1.PNG" width="750" height="300"> 
   </p>
 
-  We saw that more than three fourths of the participants were aware of the CGU, but most of them think that the CGU does not influence the career preferences of the undergraduates.
+  We saw that more than three fourths of the participants were aware of the CGU, but most of them think that the CGU has only a moderate influence on the career preferences of the undergraduates.
 
   <p align="center">
     <img src="Images/cgu_2.PNG" width="750" height="300">
