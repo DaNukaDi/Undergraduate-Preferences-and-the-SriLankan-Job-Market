@@ -65,13 +65,13 @@ Based on the heatmap provided, it's evident that the majority of students antici
   Further we analysed the familiarity of the Career Guidance Unit (CGU) among the students and usage of its services. 
 
   <p align="center">
-    <img src="Images/cgu_1.png" width="750" height="300"> 
+    <img src="Images/cgu_1.PNG" width="750" height="300"> 
   </p>
 
   We saw that more than three fourths of the participants were aware of the CGU, but most of them think that the CGU does not influence the career preferences of the undergraduates.
 
   <p align="center">
-    <img src="Images/cgu_2.png" width="750" height="300">
+    <img src="Images/cgu_2.PNG" width="750" height="300">
   </p>  
 
   When it comes to the familiarity of the local and overseas job markets, most students have a moderate idea about it. Yet a higher percentage of students are well aware of the job market when they have used the services of the CGU.
