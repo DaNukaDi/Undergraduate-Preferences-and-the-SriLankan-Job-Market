@@ -47,9 +47,14 @@ The bar graph above illustrates that a significant proportion of students identi
 
 <img src="Images/higherst_3.png" width=750 height=300>
 
-Above Bar graph shows **Decision after Doing Higher studies in Overseas**.Acording to that, Majority of the undergraduate are not decided yet what there doing after complete the higher studies in overseas.However, More people choose not to return to Sri Lanka after studying abroad than return.
+Above Bar graph shows **Decision after Doing Higher studies in Overseas**.Acording to that, Majority of the undergraduate are not decided yet what there doing after complete the higher studies in overseas.However, More people choose not to return to Sri Lanka after studying abroad than return.let's Understand what are the actual reasons for their preference?
 
 <img src="Images/higherst_4.png" width=1000 height=300>
+
+The main reasons we got were salary satisfaction, the current financial crisis in Sri Lanka, and the limited job opportunities available in Sri Lanka related to their fields.
+
+
+
 
 ## Conclusions
   1. More than half of the sample, which is 58% prefer entering the industry after graduation, while the rest 42% prefer continuing higher studies.
