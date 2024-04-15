@@ -44,14 +44,23 @@ According to the above figure, we can understand why most students are willing t
 </table>  
 The bar graph above illustrates that a significant proportion of students identify as research-oriented. Moreover, a considerable majority express a preference for pursuing further education abroad.
 
-
-<img src="Images/higherst_3.png" width=750 height=300>
+<p align="center">
+  <img src="Images/higherst_3.png" width="750" height="300">
+</p>
 
 Above Bar graph shows **Decision after Doing Higher studies in Overseas**.Acording to that, Majority of the undergraduate are not decided yet what there doing after complete the higher studies in overseas.However, More people choose not to return to Sri Lanka after studying abroad than return.let's Understand what are the actual reasons for their preference?
 
 <img src="Images/higherst_4.png" width=1000 height=300>
 
-The main reasons we got were salary satisfaction, the current financial crisis in Sri Lanka, and the limited job opportunities available in Sri Lanka related to their fields.
+The main reasons we got were salary satisfaction, the current financial crisis in Sri Lanka, and the limited job opportunities available in Sri Lanka related to their fields.Then, the students who chose an overseas job were evaluated with their degree types for the range of salaries they would expect if they were to be employed in Sri Lanka.
+
+<p align="center">
+  <img src="Images/highersd_5.png" width="700" height="500">
+</p>
+
+Based on the heatmap provided, it's evident that the majority of students anticipate a salary range between 100,000 and 200,000.
+
+
 
 
 
