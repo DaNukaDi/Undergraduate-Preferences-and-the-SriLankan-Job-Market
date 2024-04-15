@@ -29,7 +29,7 @@ It appears that many people are indeed joining the Sri Lankan job market. Is thi
 
 <img src="Images/sl_reasons.png" width=1000 height=300>
 
-According to the above figure, we can understand why most students are willing to join the Sri Lankan job market. A considerable number of students do not want to leave their parents and go to another country. Also, some students are facing financial instability. *****Therefore, we can understand that their preferences do not depend on the quality of the Sri Lankan industry.****
+According to the above figure, we can understand why most students are willing to join the Sri Lankan job market. A considerable number of students do not want to leave their parents and go to another country. Also, some students are facing financial instability. ****Therefore, we cannot conclude that the preference of students depends solely on the quality of the Sri Lankan job market.****
 
    ### Continue Higher Studies
 
