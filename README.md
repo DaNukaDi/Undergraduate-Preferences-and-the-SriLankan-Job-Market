@@ -14,7 +14,7 @@ We want to discover what motivates young Sri Lankans to move or search for oppor
 
 ## Main objective 
 
-Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in University of Colombo
+Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in University of Colombo.
 
 ## Data Analysis
    ### Entering Sri Lankan Industry
